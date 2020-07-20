@@ -28,7 +28,8 @@
     "eslint-plugin-promise": "^4.0.1",
     "firebase-functions-test": "^0.1.6",
     "nodemon": "^2.0.2",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "minimist": ">=0.2.1"
   },
   "private": true
 }
